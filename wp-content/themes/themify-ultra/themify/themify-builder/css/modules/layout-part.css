@@ -1,0 +1,8 @@
+.module_row .module-layout-part .row_inner,
+.module_row .module-layout-part .module_column{
+    min-height:inherit
+}
+.module_row .row_inner .module-layout-part .row_inner{
+    max-width:none;
+    width:auto
+}
